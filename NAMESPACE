@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+import(RJSONIO)
+import(RColorBrewer)
+import(httr)
+import(rCharts)

@@ -1,0 +1,13 @@
+Package: BikeShare
+Type: Package
+Title: Interactive Map of Bikesharing Networks
+Version: 0.1
+Date: 2013-12-17
+Author: Ramnath Vaidyanathan
+Maintainer: Ramnath Vaidyanathan <ramnath.vaidya@gmail.com>
+Description: Interactive Map of Bikesharing Networks
+License: MIT
+Imports:
+  rCharts
+Collate:
+  BikeShare.R
